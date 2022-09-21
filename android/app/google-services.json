@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198283661271",
+    "firebase_url": "https://msgapp-9629b-default-rtdb.firebaseio.com",
+    "project_id": "msgapp-9629b",
+    "storage_bucket": "msgapp-9629b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198283661271:android:28d8e6b990ad59d12bc592",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198283661271-jtg1kkeaev60dbqn4p8h9vc65uudhqar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaY-KeGc55QiMx-o5h3SYboG-L8F1GOtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198283661271-jtg1kkeaev60dbqn4p8h9vc65uudhqar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
